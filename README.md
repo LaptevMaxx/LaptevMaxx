@@ -10,12 +10,15 @@
   
 </div>
 
-![Image alt](https://github.com/LaptevMaxxi/mages/raw/master/image/stepik1.png)
+![stepik_python1](https://github.com/LaptevMaxx/images/blob/main/stepik_1.png?raw=true)
+![stepik_python2](https://github.com/LaptevMaxx/images/blob/main/stepik_2.png?raw=true)
+![stepik_pythonbase](https://github.com/LaptevMaxx/images/blob/main/stepik_b.png?raw=true)
+![stepik_stats1](https://github.com/LaptevMaxx/images/blob/main/stepik_stats2.png?raw=true)
+<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_1.png?raw=true" width="510" height="360"/>
+<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_2.png?raw=true" width="510" height="360"/>
+<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_b.png?raw=true" width="510" height="360"/>
+<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_stats2.png?raw=true" width="510" height="360"/>
 
-{username} — ваш ник на ГитХабе;
-{repository} — репозиторий где хранятся картинки;
-{branch} — ветка репозитория;
-{path} — путь к месту нахождения картинки.
 
 
 
