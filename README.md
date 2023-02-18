@@ -1,7 +1,6 @@
 ### О себе
-Меня зовут Максим Лаптев, с апреля 2022 года я изучаю аналитику данных. Ранее я занималась анализом данных в рамках экономики и финансов предприятия.  
-Для углубления знаний в анализе прошла несколько онлайн курсов, с помощью которых освоила Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта.
-На академических проектах практиковалась в проведение статистических тестов, создании дашбордов в Tableau, использовании GIT и AIRFLOW.
+Меня зовут Максим Лаптев, с 2021 года увлекаюсь программированием на Python, с сентября 2022 года изучаю аналитику данных на Karpov Courses. 
+Освоил Python и его применение для анализа данных, SQL, математическую статистику, теорию вероятности, формирование и проверку статистических гипотез,  A/B тестирование, продуктовые метрики и фреймворки для развития продукта, создании дашбордов в Tableau, использовании GIT и AIRFLOW.
 
 ### Контакты:
 <div align="left">
@@ -10,14 +9,25 @@
   
 </div>
 
-![stepik_python1](https://github.com/LaptevMaxx/images/blob/main/stepik_1.png?raw=true)
+### Сертификаты и курсы
+
 ![stepik_python2](https://github.com/LaptevMaxx/images/blob/main/stepik_2.png?raw=true)
+
+сертификат доступен по ссылке https://stepik.org/cert/1518373
+
+![stepik_python1](https://github.com/LaptevMaxx/images/blob/main/stepik_1.png?raw=true)
+
+сертификат доступен по ссылке https://stepik.org/cert/1486471
+
 ![stepik_pythonbase](https://github.com/LaptevMaxx/images/blob/main/stepik_b.png?raw=true)
+
+сертификат доступен по ссылке https://stepik.org/cert/1545615
+
 ![stepik_stats1](https://github.com/LaptevMaxx/images/blob/main/stepik_stats2.png?raw=true)
-<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_1.png?raw=true" width="510" height="360"/>
-<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_2.png?raw=true" width="510" height="360"/>
-<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_b.png?raw=true" width="510" height="360"/>
-<img src="https://github.com/LaptevMaxx/images/blob/main/stepik_stats2.png?raw=true" width="510" height="360"/>
+
+сертификат доступен по ссылке https://stepik.org/cert/1527419
+
+### Проекты
 
 
 
