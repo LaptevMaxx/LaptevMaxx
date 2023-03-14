@@ -32,9 +32,9 @@
 
 ### Сертификаты
 
-![karpov_courses](https://lab.karpov.courses/certificate/5948b9a0-ff30-40b2-be85-da01a1bfea07/en/)
+![karpov_courses](https://github.com/LaptevMaxx/images/blob/main/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82KC.png)
 
-сертификат доступен по ссылке https://stepik.org/cert/1527419
+сертификат доступен по ссылке https://lab.karpov.courses/certificate/5948b9a0-ff30-40b2-be85-da01a1bfea07/en/
 
 ###  🛠️ Languages and Tools :  
 
