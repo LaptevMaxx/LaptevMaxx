@@ -30,7 +30,11 @@
 (__[github](https://github.com/LaptevMaxx/project2_dating_AB)__)
 4. Анализ результатов онлайн-лотереи <b>(скоро)</b>
 
+### Сертификаты
 
+![karpov_courses](https://lab.karpov.courses/certificate/5948b9a0-ff30-40b2-be85-da01a1bfea07/en/)
+
+сертификат доступен по ссылке https://stepik.org/cert/1527419
 
 ###  🛠️ Languages and Tools :  
 
