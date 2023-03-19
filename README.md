@@ -28,7 +28,8 @@
 (__[github](https://github.com/LaptevMaxx/project1_elearning)__)
 2. Анализ результатов A/A/B тестирования дэйтингового приложения
 (__[github](https://github.com/LaptevMaxx/project2_dating_AB)__)
-4. Анализ результатов онлайн-лотереи <b>(скоро)</b>
+4. Анализ результатов онлайн-лотереи
+(__[github](https://github.com/LaptevMaxx/lottery)__)
 
 ### Сертификаты
 
